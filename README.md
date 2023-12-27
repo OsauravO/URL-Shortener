@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to [Your URL Shortener Project Name]! This is a simple and efficient URL shortener that allows you to convert long URLs into short, easy-to-share links.
+Welcome to [URL Shortener]! This is a simple and efficient URL shortener that allows you to convert long URLs into short, easy-to-share links.
 
 
 ## Features
